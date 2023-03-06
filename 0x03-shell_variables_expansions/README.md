@@ -1,1 +1,1 @@
-this is git readme
+ shell vaiables_expansion
